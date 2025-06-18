@@ -17,11 +17,10 @@ This is a full UX redesign case study for the TripHobo travel planner, focusing 
 
 ## Wireframes
 
-[🔗 View on Figma]((https://www.figma.com/design/r4uMs1hd4YgkLAno7yQdOo/Radhika?node-id=131-730&t=fxS78NQNU90ea9YN-1)) 
-
+[🔗 View on Figma](https://www.figma.com/design/r4uMs1hd4YgkLAno7yQdOo/Radhika?node-id=131-730&t=fxS78NQNU90ea9YN-1)
 ## Sitemap
 
-[🔗 View on Figma](((https://www.figma.com/design/t7Yk1xg3acxHAkCsJYe9uW/TripTidy---Sitemap?node-id=171-26&t=zqYWA30yYkhv9EBx-1))) ← *(replace this link)*
+[🔗 View on Figma](https://www.figma.com/design/t7Yk1xg3acxHAkCsJYe9uW/TripTidy---Sitemap?node-id=171-26&t=zqYWA30yYkhv9EBx-1)
 
 
 ## ✍️ Team
